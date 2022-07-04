@@ -1,0 +1,142 @@
+
+
+
+
+
+#container {
+	background: transparent;
+	font-size: 1.2em;
+	margin: 0 auto;
+	width: 900px;
+	margin-top: 60px;
+	
+}
+#right_content{
+	float: right;
+	width: 960px;
+	height: 500px;
+	background-color: ;
+	
+}
+#left_content{
+	float: left;
+	width: 170px;
+	height: 200px;
+	background-color: ;
+}#left_content ul {
+	display: block;
+	list-style: none;
+	font-size: 12px;
+	margin-left: -30px;
+}
+
+
+
+.input-profile-1{
+	width: 	250px;
+	padding: 2px 0;
+	text-align: center;	
+	border-radius: 5px;
+	margin-top: -10px;
+	font-family: arial;
+	background-color: 	none;
+}.input-profile-2{
+	width: 	120px;
+	padding: 2px 0;
+	text-align: center;	
+	border-radius: 5px;
+	margin-top: -10px;
+	font-family: arial;
+	background-color: 	none;
+
+}.input-profile-3{
+	width: 	150px;
+	padding: 2px 0;
+	text-align: center;	
+	border-radius: 5px;
+	margin-top: -6px;
+	font-family: arial;
+	background-color: 	none;
+}.search-emp-eq{
+	float: 	right;	
+	border-radius: 	5px;
+	text-align: 	center;	
+	position: 	absolute;	
+}.login-form{
+
+	width: 50%;
+	height: 250px;
+	background-color: lime;
+	margin-top: 200px;
+	margin-left:300px;
+	border-radius: 10px; 
+
+}.login-content{
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: none;
+	width: 40%;
+	height: auto;
+	position: absolute;
+}.pannel-content{
+	width: 100%;
+	height: 450px;
+	background-color: none;
+}
+
+.panel-heading {
+    padding: 6px 15px !important;
+}
+
+.logo{
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    border: 5px solid green;
+    left: 25px;
+    top: 17px;
+}
+.logoh{
+	color:white;
+    left: 154px;
+    font-size: 30px;
+	font-family:auto;
+    position: absolute;
+    top: 50px;
+	letter-spacing: 2px;
+	font-weight: 900;
+	/* text-shadow: -1px -1px 10px #333, 1px -1px 10px #333, -1px 1px 10px #333, 1px 1px 10px #333;
+	 */
+	 /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+	 /* color: coral; */
+	 text-shadow: -1px -1px 10px #333, 1px -1px 10px #333, -1px 1px 10px #333, 1px 1px 10px #333;
+	 
+}					
+
+.banner{
+	height: 152px;
+}
+.panel-body {
+    padding: 10px !important;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #fff !important;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.active>a{
+	background-image: linear-gradient(to bottom, #3174ae 0, #1d242a 100%) !important;
+    webkit-box-shadow:none !important;
+    box-shadow:none !important;
+}
+.container-fluid{
+	padding-left: 0 !important;
+}
+.alert h3{
+	    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.alert {
+    padding: 8px !important;
+}
+
